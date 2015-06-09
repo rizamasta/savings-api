@@ -2,273 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5143b828-f5cd-4bce-b731-39451cdf01ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/.Login.php.kate-swp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/texb.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Benchmark.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_apc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_dummy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_file.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_redis.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_wincache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Calendar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Categories.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_query_builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Db_models.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Email.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Encrypt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Encryption.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Form_validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Ftp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Image_lib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Javascript.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Javascript/Jquery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Migration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Output.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Profiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Security.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/SessionHandlerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/drivers/Session_database_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/Session_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/drivers/Session_files_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/drivers/Session_memcached_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/drivers/Session_redis_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Tabungan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Trackback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Typography.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/URI.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Unit_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/User_agent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Utf8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Zip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/array_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/bankPrivate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/calendar_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/captcha_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/cookie_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/date_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/date_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/db_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/directory_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/download_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/email_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/email_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/cli/error_404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/html/error_404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/cli/error_db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/html/error_db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/cli/error_exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/html/error_exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/cli/error_general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/html/error_general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/cli/error_php.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/html/error_php.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/file_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/form_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/ftp_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/compat/hash.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/html_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/ibase/ibase_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/ibase/ibase_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/ibase/ibase_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/ibase/ibase_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/imglib_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/hooks/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/third_party/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/cli/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/errors/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/compat/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/ibase/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Javascript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session/drivers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/inflector_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/language_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/compat/mbstring.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/migration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/migration_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/number_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/number_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/pagination_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/compat/password.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/path_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_4d_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_4d_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_cubrid_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_cubrid_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_dblib_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_dblib_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_firebird_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_firebird_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_ibm_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_ibm_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_informix_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_informix_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_mysql_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_mysql_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_oci_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_oci_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_odbc_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_odbc_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_pgsql_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_pgsql_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_sqlite_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_sqlite_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/profiler_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/security_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/smiley_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite3/sqlite3_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite3/sqlite3_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite3/sqlite3_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite3/sqlite3_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_forge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_utility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/compat/standard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/string_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/text_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/typography_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/upload_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/url_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/welcome_message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/xml_helper.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/bankPrivate.iml" afterPath="$PROJECT_DIR$/.idea/beasiswa.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Categories.php" afterPath="$PROJECT_DIR$/application/controllers/Categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Login.php" afterPath="$PROJECT_DIR$/application/controllers/Login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/welcome_message.php" afterPath="$PROJECT_DIR$/application/views/welcome_message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bankPrivate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -292,23 +31,80 @@
     <favorites_list name="bankPrivate" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Tabungan.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Tabungan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2985">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <folding>
+                <marker date="1433671313535" expanded="true" signature="1078:1164" placeholder="INSERT INTO ..." />
+                <marker date="1433671313535" expanded="true" signature="1992:2356" placeholder="SELECT jumla..tbl_savings..." />
+                <marker date="1433671313535" expanded="true" signature="4588:4785" placeholder="SELECT if(ju..tbl_savings..." />
+                <marker date="1433671313535" expanded="true" signature="4829:5021" placeholder="SELECT if(ju..tbl_savings..." />
+                <marker date="1433671313535" expanded="true" signature="5065:5265" placeholder="SELECT if(ju..tbl_savings..." />
+                <marker date="1433671313535" expanded="true" signature="6561:7009" placeholder="SELECT if(ju..tbl_savings..." />
+                <marker date="1433671313535" expanded="true" signature="7055:7252" placeholder="SELECT if(ju..tbl_savings..." />
+                <marker date="1433671313535" expanded="true" signature="7298:7490" placeholder="SELECT if(ju..tbl_savings..." />
+                <marker date="1433671313535" expanded="true" signature="7535:7735" placeholder="SELECT if(ju..tbl_savings..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10544816" vertical-offset="720" max-vertical-offset="1935">
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+              <folding>
+                <marker date="1433822706889" expanded="true" signature="782:1134" placeholder="SELECT user_..tbl_user..." />
+                <marker date="1433822706889" expanded="true" signature="2208:2249" placeholder="UPDATE tbl_u..." />
+                <marker date="1433822706889" expanded="true" signature="3537:3636" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Welcome.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Welcome.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="465">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome_message.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response1.html" root0="SKIP_INSPECTION" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application/views/welcome_message.php" />
         <option value="$PROJECT_DIR$/application/models/Db_models.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
-        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
-        <option value="$PROJECT_DIR$/application/controllers/Categories.php" />
         <option value="$PROJECT_DIR$/application/controllers/Tabungan.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Categories.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
+        <option value="$PROJECT_DIR$/application/views/welcome_message.php" />
       </list>
     </option>
   </component>
@@ -364,27 +160,77 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankPrivate" />
+              <option name="myItemId" value="beasiswa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankPrivate" />
+              <option name="myItemId" value="beasiswa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankPrivate" />
+              <option name="myItemId" value="spk-beasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spk-beasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spk-beasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spk-beasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,6 +244,130 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="savings-api/index.php/login/index" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="rizamasta" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="savings-api/index.php/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="rizamasta" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="savings-api/index.php/categories/add" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="rizamasta" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="nama" />
+                <option name="value" value="boni" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="savings-api/index.php/categories/add" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="rizamasta" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost" />
@@ -624,20 +594,20 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37688822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2031722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41774192" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6870968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6870968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41774192" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -670,28 +640,98 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/application/controllers/Tabungan.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2985">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1433671313535" expanded="true" signature="1078:1164" placeholder="INSERT INTO ..." />
+            <marker date="1433671313535" expanded="true" signature="1992:2356" placeholder="SELECT jumla..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4588:4785" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4829:5021" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="5065:5265" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="6561:7009" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7055:7252" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7298:7490" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7535:7735" placeholder="SELECT if(ju..tbl_savings..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433822706889" expanded="true" signature="782:1134" placeholder="SELECT user_..tbl_user..." />
+            <marker date="1433822706889" expanded="true" signature="2208:2249" placeholder="UPDATE tbl_u..." />
+            <marker date="1433822706889" expanded="true" signature="3537:3636" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Tabungan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2985">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1433671313535" expanded="true" signature="1078:1164" placeholder="INSERT INTO ..." />
+            <marker date="1433671313535" expanded="true" signature="1992:2356" placeholder="SELECT jumla..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4588:4785" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4829:5021" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="5065:5265" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="6561:7009" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7055:7252" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7298:7490" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7535:7735" placeholder="SELECT if(ju..tbl_savings..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433822706889" expanded="true" signature="782:1134" placeholder="SELECT user_..tbl_user..." />
+            <marker date="1433822706889" expanded="true" signature="2208:2249" placeholder="UPDATE tbl_u..." />
+            <marker date="1433822706889" expanded="true" signature="3537:3636" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Tabungan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2985">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1433671313535" expanded="true" signature="1078:1164" placeholder="INSERT INTO ..." />
+            <marker date="1433671313535" expanded="true" signature="1992:2356" placeholder="SELECT jumla..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4588:4785" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4829:5021" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="5065:5265" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="6561:7009" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7055:7252" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7298:7490" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7535:7735" placeholder="SELECT if(ju..tbl_savings..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433822706889" expanded="true" signature="782:1134" placeholder="SELECT user_..tbl_user..." />
+            <marker date="1433822706889" expanded="true" signature="2208:2249" placeholder="UPDATE tbl_u..." />
+            <marker date="1433822706889" expanded="true" signature="3537:3636" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Tabungan.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,15 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1275">
           <caret line="81" column="110" selection-start-line="81" selection-start-column="110" selection-end-line="81" selection-end-column="110" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <element signature="n#viewList#0;n#Categories#0;n#!!top" expanded="false" />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,26 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,15 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1275">
           <caret line="81" column="110" selection-start-line="81" selection-start-column="110" selection-end-line="81" selection-end-column="110" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <element signature="n#viewList#0;n#Categories#0;n#!!top" expanded="false" />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -758,26 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,15 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1275">
           <caret line="81" column="110" selection-start-line="81" selection-start-column="110" selection-end-line="81" selection-end-column="110" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <element signature="n#viewList#0;n#Categories#0;n#!!top" expanded="false" />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,26 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,15 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1275">
           <caret line="81" column="110" selection-start-line="81" selection-start-column="110" selection-end-line="81" selection-end-column="110" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <element signature="n#viewList#0;n#Categories#0;n#!!top" expanded="false" />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,26 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -871,15 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1275">
           <caret line="81" column="110" selection-start-line="81" selection-start-column="110" selection-end-line="81" selection-end-column="110" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <element signature="n#viewList#0;n#Categories#0;n#!!top" expanded="false" />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -915,26 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -984,26 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1053,26 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,13 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1065">
           <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1132,59 +980,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64928055" vertical-offset="404" max-vertical-offset="960">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Tabungan.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26978418" vertical-offset="0" max-vertical-offset="2985">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2985">
           <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
           <folding>
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT count..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT jumla..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
-            <marker date="1433671313535" expanded="true" signature="-1:-1" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="1078:1164" placeholder="INSERT INTO ..." />
+            <marker date="1433671313535" expanded="true" signature="1992:2356" placeholder="SELECT jumla..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4588:4785" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="4829:5021" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="5065:5265" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="6561:7009" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7055:7252" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7298:7490" placeholder="SELECT if(ju..tbl_savings..." />
+            <marker date="1433671313535" expanded="true" signature="7535:7735" placeholder="SELECT if(ju..tbl_savings..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43165466" vertical-offset="0" max-vertical-offset="1995">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.10544816" vertical-offset="720" max-vertical-offset="1935">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
           <folding>
-            <element signature="e#6#90#0#PHP" expanded="true" />
-            <marker date="1433671313539" expanded="true" signature="-1:-1" placeholder="SELECT user_..tbl_user..." />
-            <marker date="1433671313539" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_u..." />
-            <marker date="1433671313539" expanded="true" signature="-1:-1" placeholder="SELECT user_..tbl_user..." />
-            <marker date="1433671313539" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Categories.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43165466" vertical-offset="0" max-vertical-offset="1425">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <element signature="n#viewList#0;n#Categories#0;n#!!top" expanded="false" />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="SELECT * Fro..tbl_kategori..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
-            <marker date="1433671313537" expanded="true" signature="-1:-1" placeholder="UPDATE tbl_k..." />
+            <marker date="1433822706889" expanded="true" signature="782:1134" placeholder="SELECT user_..tbl_user..." />
+            <marker date="1433822706889" expanded="true" signature="2208:2249" placeholder="UPDATE tbl_u..." />
+            <marker date="1433822706889" expanded="true" signature="3537:3636" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>

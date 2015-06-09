@@ -52,6 +52,7 @@ class Categories extends CI_Controller{
         }
         else{
             $result['message']= "Method Not Allowed!";
+            $result['method']=$_SERVER['REQUEST_METHOD'];
         }
         echo json_encode($result);
     }
